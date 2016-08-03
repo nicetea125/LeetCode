@@ -1,7 +1,7 @@
 import java.util.*;
 
 
-public class Solution {
+public class No375 {
 
     private static Map<String,Integer> map = new HashMap<String,Integer>();
 
